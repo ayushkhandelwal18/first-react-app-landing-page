@@ -1,6 +1,6 @@
 
-import Navbar from './components/navbar';
-import Herosection from './components/herosection';
+import Navbar from './components/Navbar';
+import Herosection from './components/Herosection';
 import FetureSection from './components/FetureSection';
 import WorkFlow from './components/WorkFlow';
 import Pricing from './components/Pricing';
