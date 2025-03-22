@@ -1,12 +1,28 @@
-# React + Vite
+# React Landing Page 🚀  
+This is my first React project! 🎉 I built a simple, responsive landing page using React, Vite, and Tailwind CSS. I followed a YouTube tutorial to learn and implement this.  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#Features
 
-Currently, two official plugins are available:
+✅ Responsive Navbar   
+✅ Modern UI with Tailwind CSS  
+✅ Lucide React Icons for a sleek look  
+✅ Optimized performance with Vite  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#TechStack
 
-## Expanding the ESLint configuration
+✅ React 19 
+✅Vite 4 (for fast development)  
+✅Tailwind CSS(for styling)  
+✅Lucide React(for icons) 
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+#Getting Started
+
+✅Clone the repo
+✅Install dependencies: npm install
+✅Start the development server: npm run dev
+
+📌 Live Demo
+https://first-react-app-landing-page.vercel.app/
+
+🎥 Tutorial Reference
+This project was developed by following a YouTube tutorial:(https://youtu.be/EwzWg-Joxq0?feature=shared).
